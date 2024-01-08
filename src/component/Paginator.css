@@ -1,0 +1,10 @@
+.custom-pagination-prev {
+
+    white-space: nowrap; 
+    overflow: hidden;   
+    text-indent: 10%; 
+    width: 34px;
+    margin-left: -10px;
+
+  }
+
